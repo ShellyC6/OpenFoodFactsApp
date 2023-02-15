@@ -1,6 +1,7 @@
 # open_food_facts_app
 
 A new Flutter project.
+[Sujet : L'application Flutter Open Food Facts](https://codelabs.formation-android.fr/Flutter%20-%2002%20-%20L%27application/#0)
 
 ## Getting Started
 
